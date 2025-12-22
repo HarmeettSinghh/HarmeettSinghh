@@ -16,7 +16,7 @@ Hey there ! I'm Harmeet 👋  <br>Computer Science student by day, debugger by d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarmeettSinghh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
