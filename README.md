@@ -1,6 +1,6 @@
 
 # About Me:
-Hey there ! I'm Harmeet 👋  <br>Computer Science student by day, debugger by destiny 🐞<br><br>I write code, break it, Google the error, fix it,  <br>feel proud for 5 minutes, then repeat .<br><br>I love building projects and figuring out why things work… <br>and why they sometimes absolutely refuse to.
+Hey there ! I'm Harmeet 👋  <br>Computer Science student by day, debugger by destiny 🐞<br><br>I write code, break it, Google the error, fix it,  <br>feel proud for 5 minutes, then repeat .<br><br>I love building projects and figuring out why things work… <br>and why they sometimes absolutely refuse to
 
 
 ## 🌐 Socials:
