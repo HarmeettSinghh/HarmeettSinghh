@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables — never commit secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
