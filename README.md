@@ -1,9 +1,7 @@
-
-
-<p align="center">
+<a href="https://github.com/HarmeettSinghh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-    <img src="./dark_mode.svg" alt="Harmeet Singh GitHub Profile">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarmeettSinghh/HarmeettSinghh/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarmeettSinghh/HarmeettSinghh/main/light_mode.svg">
+    <img alt="Harmeet Singh's GitHub Profile README" src="https://raw.githubusercontent.com/HarmeettSinghh/HarmeettSinghh/main/light_mode.svg">
   </picture>
-</p>
+</a>
